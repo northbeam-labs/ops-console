@@ -1,0 +1,4 @@
+replicaCount: 2
+image:
+  repository: ghcr.io/code-pilgrimz/api
+  tag: latest
