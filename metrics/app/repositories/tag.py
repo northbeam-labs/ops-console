@@ -4,3 +4,4 @@ from app.models.tag import Tag
 
 class TagRepository(BaseRepository):
     model = Tag
+# wip: null-handling
