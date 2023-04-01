@@ -18,3 +18,4 @@ class WebhookService:
 
     def create(self, data):
         return self.repo.create(Webhook(**data.dict()))
+# wip: rbac
